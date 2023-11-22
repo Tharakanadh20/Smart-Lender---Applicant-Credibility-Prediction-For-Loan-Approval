@@ -1,5 +1,5 @@
 # Smart Lender - Applicant Credibility Prediction For Loan Approval
-  This project enhances banking credit risk evaluation using machine learning (Decision Tree, Random Forest, KNN, XGBoost). Accurate prediction of defaulters is crucial for financial stability.
+  This project enhances banking credit risk evaluation using machine learning (Decision Tree, Random Forest, KNN, XGBoost). Accurate prediction of defaulters is crucial for financial stability. 
 
 **Overview:**
 Smart Lender addresses the vital role of credit systems in shaping a country's economic landscape. This project focuses on refining bank credit risk evaluation through machine learning techniques. Predicting credit defaulters is a complex yet crucial task for financial institutions, aiming to minimize losses and contribute positively to the bank's financial statement.
