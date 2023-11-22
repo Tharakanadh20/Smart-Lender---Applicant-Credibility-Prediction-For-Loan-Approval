@@ -17,8 +17,9 @@ Smart Lender addresses the vital role of credit systems in shaping a country's e
 
 **Technologies Used:**
 - Classification Algorithms: Decision Tree, Random Forest, KNN, XGBoost.
+- Python Programming Language: Scikit-learn library for machine learning algorithms
+- HTML and CSS: Enhance the visual appeal and usability of the web interface
 - Flask for creating a user-friendly web interface.
-- IBM Cloud for efficient and scalable deployment.
 
 **Benefits:**
 - Improved accuracy in predicting loan defaulters.
