@@ -29,4 +29,4 @@ Smart Lender addresses the vital role of credit systems in shaping a country's e
 This GitHub repository showcases the Smart Lender project, emphasizing the significance of credit risk evaluation in banking. It provides detailed documentation on data preprocessing, model training, and selection. The repository includes code for Flask integration and IBM Cloud deployment, ensuring accessibility and scalability.
 
 **Conclusion:**
-Smart Lender, with its focus on machine learning techniques and technological integration, offers a robust solution for effective credit risk evaluation in the banking sector. This project stands as a testament to the power of data-driven decision-making in financial institutions.
+Smart Lender, with its focus on machine learning techniques and technological integration, offers a robust solution for effective credit risk evaluation in the banking sector. This project stands as a testament to the power of data-driven decision-making in financial institutions. 
